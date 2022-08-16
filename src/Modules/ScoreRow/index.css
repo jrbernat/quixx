@@ -1,0 +1,29 @@
+
+.score-row-container {
+    height: 6ch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 1ch;
+    margin-left: 1ch;
+    border-radius: 3px;
+}
+
+.score-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 4ch;
+}
+
+.number-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    width: 32px;
+    height: 32px;
+    font-size: larger;
+    background-color: lightgray;
+    border-radius: 3px;
+}

@@ -1,0 +1,52 @@
+
+.scorecard-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 90vw;
+    height: 90vh;
+}
+
+.scorecard {
+    display: flex;
+    flex-direction: column;
+    gap: 2ch;
+    width: 100%;
+    height: 100%;
+    margin: 16px;
+}
+
+.penis {
+    font-size: 128px;
+}
+
+.score-box-container {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    width: 100vw;
+    margin-right: 32px;
+    margin-left: 32px;
+
+}
+
+.score-box {
+    height: 32px;
+    width: 32px;
+    font-size: larger;
+    border-radius: 3px;
+}
+
+.strike-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    width: 100%;
+}
+.strikes {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
