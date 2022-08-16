@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quixx/static/css/main.cf7c9ef2.css",
+    "main.js": "/quixx/static/js/main.64597057.js",
+    "static/js/787.1e30c064.chunk.js": "/quixx/static/js/787.1e30c064.chunk.js",
+    "index.html": "/quixx/index.html",
+    "main.cf7c9ef2.css.map": "/quixx/static/css/main.cf7c9ef2.css.map",
+    "main.64597057.js.map": "/quixx/static/js/main.64597057.js.map",
+    "787.1e30c064.chunk.js.map": "/quixx/static/js/787.1e30c064.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf7c9ef2.css",
+    "static/js/main.64597057.js"
+  ]
+}
